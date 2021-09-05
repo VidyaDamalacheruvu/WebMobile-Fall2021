@@ -1,0 +1,38 @@
+.grid-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.grid-color{
+    height: 70px;
+    width: 70px;
+    display: block;
+    margin: 15px 10px;
+}
+.first{
+    background-color: blueviolet;
+}
+.second{
+    background-color: rosybrown;
+}
+.third{
+    background-color: olive;
+}
+.fourth{
+    background-color: greenyellow;
+}
+.fifth{
+    background-color: orange;
+}
+.sixth{
+    background-color: darkgrey;
+}
+.seventh{
+    background-color: yellow;
+}
+.eight{
+    background-color: deepskyblue;
+}
+.nine{
+    background-color: cornflowerblue;
+}
